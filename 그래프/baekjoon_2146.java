@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /*백준 2146번 다리 만들기
-2020 / 02 / 09
+2021 / 02 / 09
 */
 class Pair{
 	int x;

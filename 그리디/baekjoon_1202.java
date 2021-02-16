@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 /*백준 1202번 보석 도둑
-2020 / 02 / 07
+2021 / 02 / 07
 */
 class Pair{
 	int weight;

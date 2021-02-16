@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 /*백준 10755번 공항
-2020 / 02 / 15
+2021 / 02 / 15
 */
 public class Main {
 	static int getparent(int[] parent,int x) {
