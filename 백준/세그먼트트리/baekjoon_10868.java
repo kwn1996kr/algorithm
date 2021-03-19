@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 /*	백준_10868번_최솟값
- *  2021/ 03 / 17
+ *  2021/ 03 / 18
  */
 public class Main {
 	static int n,m;
