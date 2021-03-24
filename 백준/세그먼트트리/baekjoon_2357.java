@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-/*	백준_1517번_버블 소트
+/*	백준_2357번_최솟값과 최댓값
  *  2021/ 03 / 23
  */
 public class Main {
