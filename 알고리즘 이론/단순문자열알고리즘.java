@@ -21,7 +21,7 @@ public class Main {
 	}
 	public static void main(String[] args) throws Exception{
 		String parent = "Hello World";
-		String pattern = "llo W";
+		String pattern = "lo W";
 		int result = findString(parent,pattern);
 		if(result==-1) {
 			System.out.println("찾을 수 없습니다.");
